@@ -8,19 +8,8 @@ cook_time: 30 min
 wait time: 1-4 hours
 cost: about $2 per serving
 tags: [quick, budget]
-coming_soon: false 
 ---
 
-<!--
-  HOW TO FILL THIS IN
-  - Lines between the two --- lines are the recipe "card" info. Keep the "name: value" format.
-  - image: the file name of a photo saved in this SAME folder, e.g.  image: breakfast-burritos.jpg
-    Leave it blank if you don't have a photo yet.
-  - While "coming_soon: true" is here, the website only shows the title and a "Coming soon"
-    banner, so you can work on it bit by bit. Delete that line when the recipe is ready.
-  - Any line you don't need (cost, tags, etc.) can be deleted.
-  - This grey comment box doesn't show on the website. You can delete it.
--->
 
 ## Ingredients
 
