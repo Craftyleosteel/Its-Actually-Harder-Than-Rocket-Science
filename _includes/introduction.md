@@ -17,8 +17,16 @@ My name is Paco Navarro, I am a phycisist by trade, but I have worked in the res
 
 ## Before You Start
 
-This is a series of recipes I have compiled over the years both through my time budgeting in grad school, working in restaurants, and most importantly learning from friends and family. 
+This is a series of recipes I have compiled over the years both through my time budgeting in grad school, working in restaurants, and most importantly learning from friends and family. I am also trying to use items that you would probably already have laying around the house. 
 
-*Write your preamble here.* Your cooking philosophy, how to shop on a budget, the tools and pantry staples you rely on, or anything a reader should know before diving into the recipes.
+In future versions, once the website is more filled out, I will include a large list of common pantry items and tool that I think everyone should have available.
 
 ## Acknowledgements
+
+I would like to thank all of my friends and family who have taught me along the way and have lead me to the point where I could dream of writing something like this. 
+
+I would like to thank my various teachers and professors throughout the years who always pushed me to become better and focus on improving my craft. There is no world in which I could have achieved these things without you. 
+
+Most importantly, I would like to thank my parents who have always supported me through and through on my journey and have been the only ones to believe in me at certain points.
+
+This book is dedicated to my grandparents. With all my love and mahal. 
