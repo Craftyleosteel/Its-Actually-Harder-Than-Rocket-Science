@@ -29,4 +29,6 @@ I would like to thank my various teachers and professors throughout the years wh
 
 Most importantly, I would like to thank my parents who have always supported me through and through on my journey and have been the only ones to believe in me at certain points.
 
-This book is dedicated to my grandparents. With all my love and mahal. 
+This book is dedicated to my grandparents.
+
+Mahal.
