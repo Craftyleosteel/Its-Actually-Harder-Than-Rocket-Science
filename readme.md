@@ -1,4 +1,4 @@
-# It's Actually Harder Than Rocket Science: Cooking on a Budget
+# It Is Rocket Science: A PhD Student's Guide to Eating Well On a Budget
 
 A home cookbook website, built automatically by GitHub Pages.
 
