@@ -5,7 +5,6 @@ image:
 servings: 4
 prep_time: 10 min
 cook_time: 30 min
-wait time: 1-4 hours
 cost: about $2 per serving
 tags: [quick, budget]
 ---
