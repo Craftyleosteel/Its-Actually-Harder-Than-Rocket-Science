@@ -1,11 +1,11 @@
 ---
-title: Huge Cinnamon Rolls with Brown Butter Frosting
-description: One short sentence about why this recipe is great.
+title: Cinnamon Rolls with Brown Butter Frosting
+description: Rich, gooey, and crispy. 
 image:
-servings: 4
-prep_time: 15 min
+servings: 12
+prep_time: 4 Hours
 cook_time: 30 min
-cost: about $2 per serving
+cost: ~$2 per serving
 tags: [quick, budget]
 coming_soon: true
 ---
@@ -33,4 +33,4 @@ coming_soon: true
 
 ## Notes
 
-- Tips, swaps, or how to store leftovers.
+This recipe is way easier with a stand or hand mixer. Geniunely a life saver for recipes like these. 

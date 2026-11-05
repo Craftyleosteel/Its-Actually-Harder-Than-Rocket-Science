@@ -2,10 +2,10 @@
 title: Focaccia
 description: Crispy oily goodness great for any ocassion.
 image:
-servings: 4
-prep_time: 10 min
-cook_time: 30 min
-cost: about $2 per serving
+servings: 16
+prep_time: 120 min
+cook_time: 40 min
+cost: ~$0.45 per serving
 tags: [quick, budget]
 ---
 
