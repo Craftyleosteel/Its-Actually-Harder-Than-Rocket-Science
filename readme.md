@@ -2,7 +2,7 @@
 
 A home cookbook website, built automatically by GitHub Pages.
 
-**Live site:** https://craftyleosteel.github.io/Its-Actually-Harder-Than-Rocket-Science-Cooking-On-A-Budget/
+**Live site:** https://craftyleosteel.github.io/Its-Actually-Harder-Than-Rocket-Science/
 
 ---
 
