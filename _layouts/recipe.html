@@ -6,14 +6,14 @@ layout: default
 {% assign section = site.sections | where: "slug", section_slug | first %}
 
 <article class="recipe">
-  <a class="crumb" href="{{ section.url | relative_url }}">← {{ section.emoji }} {{ section.title }}</a>
+  <a class="crumb" href="{{ section.url | relative_url }}">← {{ section.title }}</a>
 
   <header class="recipe-head">
     <h1>{{ page.title }}</h1>
   {% if page.coming_soon %}
   </header>
   {% comment %} While a recipe is marked coming_soon, only the title is shown. {% endcomment %}
-  <p class="coming-soon">🚧 This recipe is still being written. Check back soon!</p>
+  <p class="coming-soon">This recipe is still being written. Check back soon.</p>
   {% else %}
     {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
 
@@ -25,7 +25,7 @@ layout: default
     </ul>
 
     {% if page.tags %}
-      <ul class="tags">{% for tag in page.tags %}<li>{{ tag }}</li>{% endfor %}</ul>
+      <p class="tags">{{ page.tags | join: " · " }}</p>
     {% endif %}
   </header>
 

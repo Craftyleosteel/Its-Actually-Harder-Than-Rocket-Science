@@ -5,21 +5,23 @@ layout: default
 {% assign all_recipes = site.recipes | sort: "title" %}
 
 <section class="section-hero">
-  <a class="crumb" href="{{ '/' | relative_url }}">← All sections</a>
-  <h1><span class="emoji">{{ page.emoji }}</span> {{ page.title }}</h1>
+  <a class="crumb" href="{{ '/' | relative_url }}">← Contents</a>
+  <span class="kicker">Chapter {{ page.order }}</span>
+  <h1>{{ page.title }}</h1>
   {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
   {{ content }}
+  <hr class="rule">
 </section>
 
-<div class="card-grid">
+<ul class="recipe-list">
   {% assign count = 0 %}
   {% for recipe in all_recipes %}
     {% if recipe.relative_path contains folder %}
       {% assign count = count | plus: 1 %}
-      {% include recipe-card.html recipe=recipe emoji=page.emoji %}
+      {% include recipe-card.html recipe=recipe %}
     {% endif %}
   {% endfor %}
-</div>
+</ul>
 
 {% if count == 0 %}
   <p class="empty">No recipes here yet.</p>
